@@ -1,0 +1,32 @@
+Risk-Sensitive Reinforcement Learning
+CS6700 - Project
+Monisha J - CS15B053, Shreyas Chaudhari - EE15B019
+
+
+
+Main files : 
+
+gridworld.py  		-	Gridworld Simulation for single start state, single goal and zero or more error states
+q.ipynb 			- 	Q-Learning (with calculation of first risk measure) [Adapted from https://gist.github.com/yunsangq/9fabb573544e8dc6b7cb1193aa1a73d7]
+q2005.ipynb	  		- 	R-Learning (Refer report for details)
+dist_q.ipynb `  	-   Q-Learning (with calculation of second risk measure)
+dist_q2005.ipynb `  -   S-Learning (Refer report for details)
+sarsa.ipynb 		- 	SARSA (with calculation of first risk measure) [Adapted from https://gist.github.com/yunsangq/9fabb573544e8dc6b7cb1193aa1a73d7]
+multi_goal : 
+	gridworld.py  	- 	Gridworld Simulation for one or more goals and zero or more error states
+	q.ipynb 		- 	Q-Learning (with calculation of first risk measure for multi-goal)
+	q2005.ipynb 	- 	R-Learning (Refer report for details)
+	sarsa.ipynb  	-  	SARSA (with calculation of first risk measure for multi-goal)
+
+		
+
+
+
+
+
+Other files : 
+
+dq.ipynb 			- 	Deep Q-Learning [Adapted from https://github.com/ts1829/RL_Agent_Notebooks/blob/master/frozenlake-v0%20Keras.ipynb]
+dq_risk.ipynb 		- 	Deep Q-Learning with Risk
+reinforce.ipynb 	-  	REINFORCE algorithm [Adapted from https://github.com/rlcode/reinforcement-learning/blob/master/1-grid-world/7-reinforce/reinforce_agent.py]
+
