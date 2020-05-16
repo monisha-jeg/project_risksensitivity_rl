@@ -15,4 +15,4 @@ The following risk-measures and algorithms are implemented for a gridworld with 
 * S-Learning
 
 The mapping between the risk measures, algorithms and code files can be found in algorithm_file_mapping.txt.
-#### A detailed report on the analysis of these measures and algorithms can be found [here](https://drive.google.com/open?id=1k_VP6LrwvLj6L1Am11AqNc_FoSp9gzQk).
+#### A detailed report on the analysis of these measures and algorithms can be found [here](https://drive.google.com/file/d/1SDbNAa5gieDZM0R0qwv_cUxMr_3Thcj7/view?usp=sharing).
